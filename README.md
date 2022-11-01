@@ -2,7 +2,9 @@
 - 👀 I’m interested in Front-End web development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- my social media links
+    Twitter -> https://twitter.com/Althaf_Ahd
+    LinkedIn -> https://www.linkedin.com/in/althafahd/
 
 <!---
 AlthafAhd07/AlthafAhd07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
