@@ -2,8 +2,8 @@
 - 👀 I’m interested in Front-End web development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- my social media links/
-    Twitter -> https://twitter.com/Althaf_Ahd /
+- my social media links\
+    Twitter -> https://twitter.com/Althaf_Ahd \
     LinkedIn -> https://www.linkedin.com/in/althafahd/
 
 <!---
