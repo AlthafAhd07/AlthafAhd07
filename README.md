@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @AlthafAhd07
+- 👋 Hi, I’m Althaf Ahamed
+
 - 👀 I’m interested in Front-End web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+- Currently trying to get Front-end dev job While learning more new stuff and upskilling my self
+
 - my social media links\
     Twitter -> https://twitter.com/Althaf_Ahd \
     LinkedIn -> https://www.linkedin.com/in/althafahd/
