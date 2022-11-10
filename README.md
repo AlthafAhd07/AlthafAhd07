@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Althaf Ahamed
 
-- 👀 I’m interested in Front-End web development
+- 👀 I’m interested in Front-End web development but I am not going stick my self only within this circle.
 
 - Currently trying to get Front-end dev job While learning more new stuff and upskilling my self
 
