@@ -2,11 +2,28 @@
 
 - 👀 I’m interested in Front-End web development but I am not going stick my self only within this circle.
 
-- Currently trying to get Front-end dev job While learning more new stuff and upskilling my self
+- My skills
+  - HTML
+  - CSS
+  - JavaScript
+  - TypeScript
+  - React
+
+        I am familiar with the other libraries used with the react Eco-System.
+
+  - Also I can work with
+    - NodeJs ( express )
+    - MongoDb
+    - Firebase
+    - GraphQL
+
+<br/>
+
+- Currently trying to contribute in some real-world projects, While learning more new stuff and upskilling my self.
 
 - my social media links\
-    Twitter -> https://twitter.com/Althaf_Ahd \
-    LinkedIn -> https://www.linkedin.com/in/althafahd/
+   Twitter -> https://twitter.com/Althaf_Ahd \
+   LinkedIn -> https://www.linkedin.com/in/althafahd/
 
 <!---
 AlthafAhd07/AlthafAhd07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
