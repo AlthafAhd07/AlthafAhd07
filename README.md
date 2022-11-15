@@ -2,6 +2,8 @@
 
 - 👀 I’m interested in Front-End web development but I am not going stick my self only within this circle.
 
+<br/>
+
 - My skills
   - HTML
   - CSS
