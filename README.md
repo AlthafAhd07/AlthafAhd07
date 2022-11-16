@@ -11,7 +11,7 @@
   - TypeScript
   - React
 
-        I am familiar with the other libraries used with the react Eco-System.
+        And I am familiar with the other libraries used in the react Eco-System.
 
   - Also I can work with
     - NodeJs ( express )
