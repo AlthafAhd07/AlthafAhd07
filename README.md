@@ -14,7 +14,7 @@
         And I am familiar with the other libraries used in the react Eco-System.
 
   - Also I can work with
-    - NodeJs ( express )
+    - NodeJs ( Express )
     - MongoDb
     - Firebase
     - GraphQL
