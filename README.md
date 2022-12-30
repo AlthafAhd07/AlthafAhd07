@@ -17,7 +17,7 @@
     - NodeJs ( Express )
     - MongoDb
     - Firebase
-    - GraphQL
+    - MySQL
 
 <br/>
 
